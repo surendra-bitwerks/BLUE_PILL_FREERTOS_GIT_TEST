@@ -1,0 +1,9 @@
+OUTPUT/
+Objects/
+Listings/
+DebugConfig/
+*.user
+*.o
+*.d
+*.map
+
